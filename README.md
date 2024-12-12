@@ -15,7 +15,7 @@ Permite al usuario realizar busquedas especificas.
 
 Requisitos:
 
-Java 17 o superior
-Framework: Spring Boot
-PostgresSQL
+1. Java 17 o superior
+2. Framework: Spring Boot
+3. PostgresSQL
 
