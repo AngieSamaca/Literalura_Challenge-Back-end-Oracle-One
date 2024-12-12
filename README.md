@@ -2,6 +2,7 @@
 Aplicacion desarrollada en Java con Spring Boot y API Gutendex que permite gestionar busquedas de libros y autores.
 Sus funciones se basan en la busqueda de informacion, permitiendo al usuariario el registro de esta,
 con persistencia en una base de datos relacional PostgresSQL.
+
 Funcionalidades:
 
 Permite al usuario realizar busquedas especificas.
